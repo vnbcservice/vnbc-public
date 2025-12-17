@@ -1,0 +1,11 @@
+{
+    "id": "project-001",
+    "title": "Clean Water for Highlands",
+    "category": "Infrastructure",
+    "date": "Nov 2024",
+    "location": "Ha Giang, Vietnam",
+    "image": "https://images.unsplash.com/photo-1583324894148-34153c8db3f5?q=80&w=2672&auto=format&fit=crop",
+    "description": "Installing water filtration systems for 3 remote villages.",
+    "published": true,
+    "order": 1
+}

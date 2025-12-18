@@ -3,9 +3,9 @@
     "category": "Dharma Talk",
     "date": "Sept 2024",
     "location": "Houston, Texas",
-    "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?q=80&w=2670&auto=format&fit=crop",
+    "image": "vnbc/vnbc-webapp/public/dharma_talk_page/On-Tam-Hai-dharma-talk-1.png",
     "description": "Lễ Cầu Nguyện Và Pháp Thoại Ngày Chủ Nhật 28/09/2025",
-    "published": false,
+    "published": true,
     "order": 1,
     "youtubeId": "DOiZWL4QRPw"
 }
